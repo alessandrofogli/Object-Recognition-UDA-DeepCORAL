@@ -1,4 +1,4 @@
-# Unsupervied Domain Adaptation Project using DeepCORAL for Object Recognition
+# Unsupervised Domain Adaptation Project using DeepCORAL for Object Recognition
 
 In this project, we will build, train and evaluate a deep learning framework on a standard setting of Unsupervised Domain Adaptation (UDA).
 Unsupervised Domain Adaptation is a learning framework to transfer knowledge learned from source domains with a large number of annotated 
